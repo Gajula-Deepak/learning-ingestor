@@ -1,0 +1,716 @@
+{
+  "nodes": [
+    {
+      "id": "linear data",
+      "label": "linear data"
+    },
+    {
+      "id": "structure follows",
+      "label": "structure follows"
+    },
+    {
+      "id": "first out",
+      "label": "first out"
+    },
+    {
+      "id": "data",
+      "label": "data"
+    },
+    {
+      "id": "linear",
+      "label": "linear"
+    },
+    {
+      "id": "structure",
+      "label": "structure"
+    },
+    {
+      "id": "node",
+      "label": "node"
+    },
+    {
+      "id": "first",
+      "label": "first"
+    },
+    {
+      "id": "structures",
+      "label": "structures"
+    },
+    {
+      "id": "linked",
+      "label": "linked"
+    },
+    {
+      "id": "each",
+      "label": "each"
+    },
+    {
+      "id": "follows",
+      "label": "follows"
+    },
+    {
+      "id": "out",
+      "label": "out"
+    },
+    {
+      "id": "principle",
+      "label": "principle"
+    },
+    {
+      "id": "introduction",
+      "label": "introduction"
+    },
+    {
+      "id": "ways",
+      "label": "ways"
+    },
+    {
+      "id": "organizing",
+      "label": "organizing"
+    },
+    {
+      "id": "storing",
+      "label": "storing"
+    },
+    {
+      "id": "accessed",
+      "label": "accessed"
+    },
+    {
+      "id": "modified",
+      "label": "modified"
+    },
+    {
+      "id": "efficiently",
+      "label": "efficiently"
+    },
+    {
+      "id": "arrays",
+      "label": "arrays"
+    },
+    {
+      "id": "array",
+      "label": "array"
+    },
+    {
+      "id": "collection",
+      "label": "collection"
+    },
+    {
+      "id": "items",
+      "label": "items"
+    },
+    {
+      "id": "stored",
+      "label": "stored"
+    },
+    {
+      "id": "contiguous",
+      "label": "contiguous"
+    },
+    {
+      "id": "memory",
+      "label": "memory"
+    },
+    {
+      "id": "locations",
+      "label": "locations"
+    },
+    {
+      "id": "allows",
+      "label": "allows"
+    }
+  ],
+  "edges": [
+    {
+      "from": "data",
+      "to": "structure",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "structures",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "introduction",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "structures",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "introduction",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structures",
+      "to": "introduction",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "ways",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "organizing",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "storing",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "accessed",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "modified",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "efficiently",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "ways",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "organizing",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "storing",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "accessed",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "modified",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "efficiently",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structures",
+      "to": "ways",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structures",
+      "to": "organizing",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structures",
+      "to": "storing",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structures",
+      "to": "accessed",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structures",
+      "to": "modified",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structures",
+      "to": "efficiently",
+      "type": "co_occurs"
+    },
+    {
+      "from": "ways",
+      "to": "organizing",
+      "type": "co_occurs"
+    },
+    {
+      "from": "ways",
+      "to": "storing",
+      "type": "co_occurs"
+    },
+    {
+      "from": "ways",
+      "to": "accessed",
+      "type": "co_occurs"
+    },
+    {
+      "from": "ways",
+      "to": "modified",
+      "type": "co_occurs"
+    },
+    {
+      "from": "ways",
+      "to": "efficiently",
+      "type": "co_occurs"
+    },
+    {
+      "from": "organizing",
+      "to": "storing",
+      "type": "co_occurs"
+    },
+    {
+      "from": "organizing",
+      "to": "accessed",
+      "type": "co_occurs"
+    },
+    {
+      "from": "organizing",
+      "to": "modified",
+      "type": "co_occurs"
+    },
+    {
+      "from": "organizing",
+      "to": "efficiently",
+      "type": "co_occurs"
+    },
+    {
+      "from": "storing",
+      "to": "accessed",
+      "type": "co_occurs"
+    },
+    {
+      "from": "storing",
+      "to": "modified",
+      "type": "co_occurs"
+    },
+    {
+      "from": "storing",
+      "to": "efficiently",
+      "type": "co_occurs"
+    },
+    {
+      "from": "accessed",
+      "to": "modified",
+      "type": "co_occurs"
+    },
+    {
+      "from": "accessed",
+      "to": "efficiently",
+      "type": "co_occurs"
+    },
+    {
+      "from": "modified",
+      "to": "efficiently",
+      "type": "co_occurs"
+    },
+    {
+      "from": "arrays",
+      "to": "array",
+      "type": "co_occurs"
+    },
+    {
+      "from": "array",
+      "to": "collection",
+      "type": "co_occurs"
+    },
+    {
+      "from": "array",
+      "to": "items",
+      "type": "co_occurs"
+    },
+    {
+      "from": "array",
+      "to": "stored",
+      "type": "co_occurs"
+    },
+    {
+      "from": "array",
+      "to": "contiguous",
+      "type": "co_occurs"
+    },
+    {
+      "from": "array",
+      "to": "memory",
+      "type": "co_occurs"
+    },
+    {
+      "from": "array",
+      "to": "locations",
+      "type": "co_occurs"
+    },
+    {
+      "from": "array",
+      "to": "allows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "collection",
+      "to": "items",
+      "type": "co_occurs"
+    },
+    {
+      "from": "collection",
+      "to": "stored",
+      "type": "co_occurs"
+    },
+    {
+      "from": "collection",
+      "to": "contiguous",
+      "type": "co_occurs"
+    },
+    {
+      "from": "collection",
+      "to": "memory",
+      "type": "co_occurs"
+    },
+    {
+      "from": "collection",
+      "to": "locations",
+      "type": "co_occurs"
+    },
+    {
+      "from": "collection",
+      "to": "allows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "items",
+      "to": "stored",
+      "type": "co_occurs"
+    },
+    {
+      "from": "items",
+      "to": "contiguous",
+      "type": "co_occurs"
+    },
+    {
+      "from": "items",
+      "to": "memory",
+      "type": "co_occurs"
+    },
+    {
+      "from": "items",
+      "to": "locations",
+      "type": "co_occurs"
+    },
+    {
+      "from": "items",
+      "to": "allows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "stored",
+      "to": "contiguous",
+      "type": "co_occurs"
+    },
+    {
+      "from": "stored",
+      "to": "memory",
+      "type": "co_occurs"
+    },
+    {
+      "from": "stored",
+      "to": "locations",
+      "type": "co_occurs"
+    },
+    {
+      "from": "stored",
+      "to": "allows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "contiguous",
+      "to": "memory",
+      "type": "co_occurs"
+    },
+    {
+      "from": "contiguous",
+      "to": "locations",
+      "type": "co_occurs"
+    },
+    {
+      "from": "contiguous",
+      "to": "allows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "memory",
+      "to": "locations",
+      "type": "co_occurs"
+    },
+    {
+      "from": "memory",
+      "to": "allows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "locations",
+      "to": "allows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "data",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "linear",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "structure",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "node",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "linked",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "each",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "linear",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "node",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "linked",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "each",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear",
+      "to": "structure",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear",
+      "to": "node",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear",
+      "to": "linked",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear",
+      "to": "each",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "node",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "linked",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "each",
+      "type": "co_occurs"
+    },
+    {
+      "from": "node",
+      "to": "linked",
+      "type": "co_occurs"
+    },
+    {
+      "from": "node",
+      "to": "each",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linked",
+      "to": "each",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "first out",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "first",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "follows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "out",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear data",
+      "to": "principle",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first out",
+      "to": "data",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first out",
+      "to": "linear",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first out",
+      "to": "structure",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first out",
+      "to": "first",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first out",
+      "to": "follows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first out",
+      "to": "out",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first out",
+      "to": "principle",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "first",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "follows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "out",
+      "type": "co_occurs"
+    },
+    {
+      "from": "data",
+      "to": "principle",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear",
+      "to": "first",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear",
+      "to": "follows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear",
+      "to": "out",
+      "type": "co_occurs"
+    },
+    {
+      "from": "linear",
+      "to": "principle",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "first",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "follows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "out",
+      "type": "co_occurs"
+    },
+    {
+      "from": "structure",
+      "to": "principle",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first",
+      "to": "follows",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first",
+      "to": "out",
+      "type": "co_occurs"
+    },
+    {
+      "from": "first",
+      "to": "principle",
+      "type": "co_occurs"
+    },
+    {
+      "from": "follows",
+      "to": "out",
+      "type": "co_occurs"
+    },
+    {
+      "from": "follows",
+      "to": "principle",
+      "type": "co_occurs"
+    },
+    {
+      "from": "out",
+      "to": "principle",
+      "type": "co_occurs"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+concept,question,answer
+linear data,What is linear data?,"Linked Lists
+
+A linked list is a linear data structure where each element is a separate object, called a node."
+first out,What is first out?,"Stacks
+
+A stack is a linear data structure that follows the LIFO (Last In, First Out) principle."
+data,What is data?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+linear,What is linear?,"Linked Lists
+
+A linked list is a linear data structure where each element is a separate object, called a node."
+structure,What is structure?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+node,What is node?,"Linked Lists
+
+A linked list is a linear data structure where each element is a separate object, called a node."
+first,What is first?,"Stacks
+
+A stack is a linear data structure that follows the LIFO (Last In, First Out) principle."
+structures,What is structures?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+linked,What is linked?,"Linked Lists
+
+A linked list is a linear data structure where each element is a separate object, called a node."
+each,What is each?,"Linked Lists
+
+A linked list is a linear data structure where each element is a separate object, called a node."
+follows,What is follows?,"Stacks
+
+A stack is a linear data structure that follows the LIFO (Last In, First Out) principle."
+out,What is out?,"Stacks
+
+A stack is a linear data structure that follows the LIFO (Last In, First Out) principle."
+principle,What is principle?,"Stacks
+
+A stack is a linear data structure that follows the LIFO (Last In, First Out) principle."
+introduction,What is introduction?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+ways,What is ways?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+organizing,What is organizing?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+storing,What is storing?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+accessed,What is accessed?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+modified,What is modified?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+efficiently,What is efficiently?,"Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently."
+arrays,What is arrays?,"Arrays
+
+An array is a collection of items stored at contiguous memory locations."
+array,What is array?,"Arrays
+
+An array is a collection of items stored at contiguous memory locations."
+collection,What is collection?,"Arrays
+
+An array is a collection of items stored at contiguous memory locations."
+items,What is items?,"Arrays
+
+An array is a collection of items stored at contiguous memory locations."
+stored,What is stored?,"Arrays
+
+An array is a collection of items stored at contiguous memory locations."
+contiguous,What is contiguous?,"Arrays
+
+An array is a collection of items stored at contiguous memory locations."
+memory,What is memory?,"Arrays
+
+An array is a collection of items stored at contiguous memory locations."
+locations,What is locations?,"Arrays
+
+An array is a collection of items stored at contiguous memory locations."
+allows,What is allows?,It allows random access to elements.

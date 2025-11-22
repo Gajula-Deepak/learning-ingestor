@@ -1,0 +1,176 @@
+[
+  {
+    "concept": "linear data",
+    "question": "What is linear data?",
+    "answer": "Linked Lists\n\nA linked list is a linear data structure where each element is a separate object, called a node.",
+    "type": "definition"
+  },
+  {
+    "concept": "first out",
+    "question": "What is first out?",
+    "answer": "Stacks\n\nA stack is a linear data structure that follows the LIFO (Last In, First Out) principle.",
+    "type": "definition"
+  },
+  {
+    "concept": "data",
+    "question": "What is data?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "linear",
+    "question": "What is linear?",
+    "answer": "Linked Lists\n\nA linked list is a linear data structure where each element is a separate object, called a node.",
+    "type": "definition"
+  },
+  {
+    "concept": "structure",
+    "question": "What is structure?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "node",
+    "question": "What is node?",
+    "answer": "Linked Lists\n\nA linked list is a linear data structure where each element is a separate object, called a node.",
+    "type": "definition"
+  },
+  {
+    "concept": "first",
+    "question": "What is first?",
+    "answer": "Stacks\n\nA stack is a linear data structure that follows the LIFO (Last In, First Out) principle.",
+    "type": "definition"
+  },
+  {
+    "concept": "structures",
+    "question": "What is structures?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "linked",
+    "question": "What is linked?",
+    "answer": "Linked Lists\n\nA linked list is a linear data structure where each element is a separate object, called a node.",
+    "type": "definition"
+  },
+  {
+    "concept": "each",
+    "question": "What is each?",
+    "answer": "Linked Lists\n\nA linked list is a linear data structure where each element is a separate object, called a node.",
+    "type": "definition"
+  },
+  {
+    "concept": "follows",
+    "question": "What is follows?",
+    "answer": "Stacks\n\nA stack is a linear data structure that follows the LIFO (Last In, First Out) principle.",
+    "type": "definition"
+  },
+  {
+    "concept": "out",
+    "question": "What is out?",
+    "answer": "Stacks\n\nA stack is a linear data structure that follows the LIFO (Last In, First Out) principle.",
+    "type": "definition"
+  },
+  {
+    "concept": "principle",
+    "question": "What is principle?",
+    "answer": "Stacks\n\nA stack is a linear data structure that follows the LIFO (Last In, First Out) principle.",
+    "type": "definition"
+  },
+  {
+    "concept": "introduction",
+    "question": "What is introduction?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "ways",
+    "question": "What is ways?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "organizing",
+    "question": "What is organizing?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "storing",
+    "question": "What is storing?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "accessed",
+    "question": "What is accessed?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "modified",
+    "question": "What is modified?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "efficiently",
+    "question": "What is efficiently?",
+    "answer": "Introduction to Data Structures\n\nData structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "type": "definition"
+  },
+  {
+    "concept": "arrays",
+    "question": "What is arrays?",
+    "answer": "Arrays\n\nAn array is a collection of items stored at contiguous memory locations.",
+    "type": "definition"
+  },
+  {
+    "concept": "array",
+    "question": "What is array?",
+    "answer": "Arrays\n\nAn array is a collection of items stored at contiguous memory locations.",
+    "type": "definition"
+  },
+  {
+    "concept": "collection",
+    "question": "What is collection?",
+    "answer": "Arrays\n\nAn array is a collection of items stored at contiguous memory locations.",
+    "type": "definition"
+  },
+  {
+    "concept": "items",
+    "question": "What is items?",
+    "answer": "Arrays\n\nAn array is a collection of items stored at contiguous memory locations.",
+    "type": "definition"
+  },
+  {
+    "concept": "stored",
+    "question": "What is stored?",
+    "answer": "Arrays\n\nAn array is a collection of items stored at contiguous memory locations.",
+    "type": "definition"
+  },
+  {
+    "concept": "contiguous",
+    "question": "What is contiguous?",
+    "answer": "Arrays\n\nAn array is a collection of items stored at contiguous memory locations.",
+    "type": "definition"
+  },
+  {
+    "concept": "memory",
+    "question": "What is memory?",
+    "answer": "Arrays\n\nAn array is a collection of items stored at contiguous memory locations.",
+    "type": "definition"
+  },
+  {
+    "concept": "locations",
+    "question": "What is locations?",
+    "answer": "Arrays\n\nAn array is a collection of items stored at contiguous memory locations.",
+    "type": "definition"
+  },
+  {
+    "concept": "allows",
+    "question": "What is allows?",
+    "answer": "It allows random access to elements.",
+    "type": "definition"
+  }
+]

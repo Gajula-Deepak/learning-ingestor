@@ -1,0 +1,112 @@
+[
+  {
+    "id": "module-1",
+    "title": "Introduction to Data Structures",
+    "summary": "Introduction to Data Structures",
+    "keyConcepts": [
+      "data",
+      "structure",
+      "structures",
+      "introduction"
+    ],
+    "order": 1
+  },
+  {
+    "id": "module-2",
+    "title": "Data structures are ways of organizing and storing data so that they can be a...",
+    "summary": "Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently.",
+    "keyConcepts": [
+      "data",
+      "structure",
+      "structures",
+      "ways",
+      "organizing"
+    ],
+    "order": 2
+  },
+  {
+    "id": "module-3",
+    "title": "Arrays",
+    "summary": "Arrays",
+    "keyConcepts": [
+      "arrays",
+      "array"
+    ],
+    "order": 3
+  },
+  {
+    "id": "module-4",
+    "title": "An array is a collection of items stored at contiguous memory locations.",
+    "summary": "An array is a collection of items stored at contiguous memory locations. It allows random access to elements.",
+    "keyConcepts": [
+      "array",
+      "collection",
+      "items",
+      "stored",
+      "contiguous"
+    ],
+    "order": 4
+  },
+  {
+    "id": "module-5",
+    "title": "Linked Lists",
+    "summary": "Linked Lists",
+    "keyConcepts": [
+      "linked"
+    ],
+    "order": 5
+  },
+  {
+    "id": "module-6",
+    "title": "A linked list is a linear data structure where each element is a separate obj...",
+    "summary": "A linked list is a linear data structure where each element is a separate object, called a node. Each node points to the next node.",
+    "keyConcepts": [
+      "linear data",
+      "data",
+      "linear",
+      "structure",
+      "node"
+    ],
+    "order": 6
+  },
+  {
+    "id": "module-7",
+    "title": "Stacks",
+    "summary": "Stacks",
+    "keyConcepts": [],
+    "order": 7
+  },
+  {
+    "id": "module-8",
+    "title": "A stack is a linear data structure that follows the LIFO (Last In, First Out)...",
+    "summary": "A stack is a linear data structure that follows the LIFO (Last In, First Out) principle.",
+    "keyConcepts": [
+      "linear data",
+      "first out",
+      "data",
+      "linear",
+      "structure"
+    ],
+    "order": 8
+  },
+  {
+    "id": "module-9",
+    "title": "Queues",
+    "summary": "Queues",
+    "keyConcepts": [],
+    "order": 9
+  },
+  {
+    "id": "module-10",
+    "title": "A queue is a linear data structure that follows the FIFO (First In, First Out...",
+    "summary": "A queue is a linear data structure that follows the FIFO (First In, First Out) principle.",
+    "keyConcepts": [
+      "linear data",
+      "first out",
+      "data",
+      "linear",
+      "structure"
+    ],
+    "order": 10
+  }
+]
