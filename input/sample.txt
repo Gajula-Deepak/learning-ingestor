@@ -1,0 +1,19 @@
+Introduction to Data Structures
+
+Data structures are ways of organizing and storing data so that they can be accessed and modified efficiently.
+
+Arrays
+
+An array is a collection of items stored at contiguous memory locations. It allows random access to elements.
+
+Linked Lists
+
+A linked list is a linear data structure where each element is a separate object, called a node. Each node points to the next node.
+
+Stacks
+
+A stack is a linear data structure that follows the LIFO (Last In, First Out) principle.
+
+Queues
+
+A queue is a linear data structure that follows the FIFO (First In, First Out) principle.
